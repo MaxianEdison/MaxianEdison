@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👨‍💻 All of my projects are available at [https://maximilianedison.com](https://maximilianedison.com)
+- 👨‍💻 All of my projects are available at [personal website](https://maximilianedison.com)
 
-- 📝 I regularly write articles on [https://maximilianedison.com](https://maximilianedison.com)
+- 📝 I regularly write articles on [personal blog](https://maximilianedison.com)
 
 - 💬 Ask me about **Whatever you want**
 
