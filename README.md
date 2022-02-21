@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Whatever you want**
 
-- 📫 How to reach me **MaximilianEdison@gmail.com**
+- 📫 How to reach me [personal blog](mailto:contact@maximilianedison.com)
 
 - ⚡ Fun fact **I hate schools and universities !**
 
