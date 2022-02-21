@@ -1,6 +1,6 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=MaxianEdison&color=orange"/></div>
 
-### Hi there:wave:, I'm [Maximilian Edison](https://MaximilianEdison.com)
+## Hi there:wave:, I'm [Maximilian Edison](https://MaximilianEdison.com)
 
 - 🔭 I’m currently working on [personal blog](https://maximilianedison.com)
 
