@@ -31,10 +31,10 @@
 
 <div align="left">
 
-<!-- ## :briefcase: My Activity:
+## :briefcase: My Activity:
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka--> -->
+<!--END_SECTION:waka-->
   
 </div>
 
