@@ -29,15 +29,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxianEdison&layout=compact&hide_border=true"/>
 <br/><br/><br/>
 
-<div align="left">
-
-## :briefcase: My Activity:
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
-</div>
-
 
 ## :telephone: Contact with me:
 
@@ -47,4 +38,14 @@
 <a href="https://www.instagram.com/MaxianEdison"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/MaxianEdison"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.gg/W9WeKZ5bUb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+
+
+<div align="left">
+
+## :briefcase: My Activity:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 </div>
