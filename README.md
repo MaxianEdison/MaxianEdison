@@ -41,9 +41,9 @@
 </div>
 
 
-<div align="left">
 
 ## :briefcase: My Activity:
 
   
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
