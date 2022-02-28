@@ -2,8 +2,6 @@
 
 ## Hi there:wave:, I'm [Maximilian Edison](https://MaximilianEdison.com)
 
-<img src="https://github.com/MaxianEdison/MaxianEdison/blob/fc7af2cb4fb2f060b0f034bac2b6c78857f7e2b7/coding.gif" align="right" width="300px" height="300px">
-
 - 🔭 I’m currently working on [personal blog](https://maximilianedison.com)
 
 - 🌱 I’m currently learning **everything**
