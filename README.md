@@ -46,38 +46,40 @@
 
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-748%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2019%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-758%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 33 Contributions in the Year 2022
+> 🏆 38 Contributions in the Year 2022
  > 
-> 📦 194 Bytes Used in GitHub's Storage 
+> 📦 205 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    13 commits     ██████████░░░░░░░░░░░░░░░   43.33% 
-🌆 Daytime    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-🌃 Evening    14 commits     ███████████░░░░░░░░░░░░░░   46.67% 
+🌞 Morning    14 commits     ███████████░░░░░░░░░░░░░░   43.75% 
+🌆 Daytime    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌃 Evening    14 commits     ███████████░░░░░░░░░░░░░░   43.75% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       28 commits     ███████████████████████░░   93.33% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Monday       28 commits     ██████████████████████░░░   87.5% 
+Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
 Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -114,5 +116,5 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/MaxianEdison/MaxianEdison/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/03/2022 02:18:49 UTC
+ Last Updated on 01/03/2022 15:36:58 UTC
 <!--END_SECTION:waka-->
