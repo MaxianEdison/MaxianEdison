@@ -46,15 +46,13 @@
 
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2024%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-757%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 44 Contributions in the Year 2022
  > 
-> 📦 217 Bytes Used in GitHub's Storage 
+> 📦 226 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,5 +114,5 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/MaxianEdison/MaxianEdison/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/03/2022 02:39:06 UTC
+ Last Updated on 05/03/2022 02:31:18 UTC
 <!--END_SECTION:waka-->
