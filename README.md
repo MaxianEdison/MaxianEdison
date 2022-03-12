@@ -2,21 +2,6 @@
 
 ## Hi there:wave:, I'm [Maximilian Edison](https://MaximilianEdison.com)
 
-- 🔭 I’m currently working on [personal blog](https://maximilianedison.com)
-
-- 🌱 I’m currently learning **everything**
-
-- 👨‍💻 All of my projects are available at [personal website](https://maximilianedison.com)
-
-- 📝 I regularly write articles on [personal blog](https://maximilianedison.com)
-
-- 💬 Ask me about **Whatever you want**
-
-- 📫 How to reach me **[contact@maximilianedison.com](mailto:contact@maximilianedison.com)**
-
-- ⚡ Fun fact **I hate schools and universities !**
-
-
 
 ## :wrench: Languages and Tools:
 
