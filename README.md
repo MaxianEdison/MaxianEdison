@@ -19,13 +19,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://maximilianedison.com) -->
 
 
-## :chart_with_upwards_trend: Github Status:
-<img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&no-frame=true" align="center" width="100%"/>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=MaxianEdison&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxianEdison&layout=compact&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=MaxianEdison"/>
-<br/><br/><br/>
-
 
 ## :telephone: Contact with me:
 
@@ -36,3 +29,13 @@
 <a href="https://t.me/MaxianEdison"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://discord.gg/W9WeKZ5bUb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
+
+
+
+
+## :chart_with_upwards_trend: Github Status:
+<img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&no-frame=true" align="center" width="100%"/>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=MaxianEdison&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxianEdison&layout=compact&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=MaxianEdison"/>
+<br/><br/><br/><br/>
