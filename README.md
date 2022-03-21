@@ -28,7 +28,7 @@
 
 
 ## :computer: Work time:
-[![MaxianEdison's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaxianEdison)](https://maximilianedison.com)
+[![MaxianEdison's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaxianEdison)](https://wakatime.com/@MaxianEdison)
 
 
 
