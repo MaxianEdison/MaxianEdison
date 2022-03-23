@@ -19,7 +19,7 @@ Some things about me :<br/>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
+<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&column=8&margin-w=15&margin-h=15" alt="MaxianEdison"></a>
 
 <!-- [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
