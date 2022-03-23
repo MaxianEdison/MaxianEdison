@@ -33,4 +33,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/MaxianEdison?tab=repositories)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxianEdison&show_icons=true&locale=en" alt="MaxianEdison">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxianEdison&show_icons=true&locale=en&border=none" alt="MaxianEdison">
