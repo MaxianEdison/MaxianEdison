@@ -21,7 +21,7 @@
 
 
 ## :chart_with_upwards_trend: Github Status:
-<img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&no-frame=true" align="center" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&no-frame=true" align="center" width="100%" height="180rem"/>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=MaxianEdison&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxianEdison&layout=compact&hide_border=true"/>
 <br/><br/><br/>
