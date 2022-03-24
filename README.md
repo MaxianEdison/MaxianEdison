@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 Some things about me :<br/>
 :one: back-end and linux developer<br/>
 :two: Proficient with PHP, bash scripting and C/C++.<br/> 
-:three: I’m currently working on the <a href="https://maximilianedison.com">Personal Social media</a><br/> 
+:three: I’m currently working on the <a href="https://maximilianedison.com">Personal Social Media</a><br/> 
 :four: How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a> <br/>
 :five: Ask me anything related to programming : <a href="mailto:maximilianedison@gmail.com">here</a><br/> 
 :six: Fun fact : I really **hate** school and university and the education system
