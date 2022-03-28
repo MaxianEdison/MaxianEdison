@@ -17,7 +17,7 @@ Some things about me :<br/>
 :six: Fun fact : I really **hate** school and university and the education system
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/MaxianEdison?tab=repositories)
 
 <a href="https://github.com/MaxianEdison?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&column=8&margin-w=15&margin-h=15" alt="MaxianEdison"></a>
 
