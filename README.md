@@ -11,7 +11,7 @@ Some things about me :<br/>
 :two: Proficient with Python, bash scripting.<br/> 
 :three: I’m currently working on the <a href="https://maximilianedison.com">my self</a><br/> 
 :four: How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a> <br/>
-:five: Ask me anything related to programming : <a href="mailto:maximilianedison@gmail.com">here</a><br/> 
+:five: Ask me anything related to programming and network: <a href="mailto:maximilianedison@gmail.com">here</a><br/> 
 :six: Fun fact : I really **hate** school and university and the education system
 
 [![-----------------------------------------------------](
