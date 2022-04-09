@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
-:one: back-end, Network and linux developer<br/>
+:one: back-end, blockchain, Network and linux developer<br/>
 :two: Proficient Python, bash scripting and C/C++.<br/> 
 :three: I’m currently working on the <a href="https://maximilianedison.com">my self</a><br/> 
 :four: How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a> <br/>
