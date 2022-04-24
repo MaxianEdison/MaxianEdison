@@ -18,8 +18,8 @@ Some things about me :<br/>
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/MaxianEdison?tab=repositories)
 
 <a href="https://github.com/MaxianEdison?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&column=8&margin-w=15&margin-h=15" alt="MaxianEdison"></a>
-
+<!-- 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/MaxianEdison?tab=repositories)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxianEdison&show_icons=true&locale=en" alt="MaxianEdison">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaxianEdison&show_icons=true&locale=en" alt="MaxianEdison"> -->
