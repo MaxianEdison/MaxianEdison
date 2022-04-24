@@ -2,9 +2,12 @@
 
 <h1 align="center">Hi :wave:, I'm MaxianEdison</h1>
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/MaxianEdison?tab=repositories)
 
+<!-- [![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/MaxianEdison?tab=repositories)
+ -->
+ 
+ 
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
 :one: back-end, blockchain, Network and linux developer<br/>
@@ -14,10 +17,14 @@ Some things about me :<br/>
 :five: Ask me anything related to programming and network: <a href="mailto:maximilianedison@gmail.com">here</a><br/> 
 :six: Fun fact : I really **hate** school and university and the education system
 
-[![-----------------------------------------------------](
+<!-- [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/MaxianEdison?tab=repositories)
-
+ -->
+ 
+ 
 <a href="https://github.com/MaxianEdison?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=MaxianEdison&column=8&margin-w=15&margin-h=15" alt="MaxianEdison"></a>
+
+
 <!-- 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/MaxianEdison?tab=repositories)
