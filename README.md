@@ -9,7 +9,7 @@ Some things about me :<br/>
 :one: Proficient with JavaScript, PHP, Python, C/C++ and Shell script.<br/> 
 :two: Have mastered many areas of programming like Web Development and server-side programming and linux kernel development.<br/>
 :three: I’m currently working on the <a href="https://github.com/MaxianEdison">ME</a><br/> 
-:four: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maximilianedison%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
+:four: How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a><br/>
 :five: Ask me anything related to programming : <a href="mailto:maximilianedison@gmail.com">here</a><br/> 
 :seven: Fun fact : I realy hate schools and university and educational system!
 
