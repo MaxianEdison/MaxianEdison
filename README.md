@@ -11,7 +11,7 @@ Some things about me :<br/>
 :three: I’m currently working on the <a href="https://github.com/MaxianEdison">ME</a><br/> 
 :four: How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a><br/>
 :five: Ask me anything related to programming : <a href="mailto:maximilianedison@gmail.com">here</a><br/> 
-:seven: Fun fact : I realy hate schools and university and educational system!
+:six: Fun fact : I realy hate schools and university and educational system!
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
