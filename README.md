@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
-:one: Proficient with JavaScript, PHP, Python, Go, C/C++ and Shell script.<br/> 
+:one: Proficient with Python, Go, C/C++ and Shell script.<br/> 
 :two: Have mastered many areas of programming like Web Development and server-side programming and linux kernel development.<br/>
 :three: I’m currently working on the <a href="https://github.com/MaxianEdison">ME</a><br/> 
 :four: How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a><br/>
