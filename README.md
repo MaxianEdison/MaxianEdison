@@ -1,6 +1,6 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=maxianedison&label=Profile%20views&color=0e75b6&style=flat" alt="MaxianEdison">
 
-<b>Welcome !! </b><br/>
+<b>Welcome 👋:!! </b><br/>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
