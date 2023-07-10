@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Some things about me :</br>
 :one: Proficient with C/C++, Assembly.</br>
-:two: Cybersecurity researcher, malware development and analysis.</br>
+:two: Cybersecurity researcher, malware development and analysis and embedded system developer.</br>
 :three: I’m currently working on the ME.</br>
 :four: How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a></br>
 :five: Ask me anything related to programming : <a href="mailto:maximilianedison@gmail.com">here</a></br>
