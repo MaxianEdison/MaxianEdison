@@ -6,12 +6,12 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 Some things about me :</br>
-:one: Proficient with C/C++, Assembly.</br>
-:two: Cybersecurity researcher, malware development and analysis and embedded system developer.</br>
-:three: I’m currently working on the ME.</br>
-:four: How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a></br>
-:five: Ask me anything related to programming : <a href="mailto:maximilianedison@gmail.com">here</a></br>
-:six: Fun fact : I realy hate schools and university and educational system!</br>
+- Proficient with C/C++, Assembly.</br>
+- Cybersecurity researcher, malware development and analysis and embedded system developer.</br>
+- I’m currently working on the ME.</br>
+- How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a></br>
+- Ask me anything related to programming : <a href="mailto:maximilianedison@gmail.com">here</a></br>
+- Fun fact : I realy hate schools and university and educational system!</br>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/maxianedison?tab=repositories)
