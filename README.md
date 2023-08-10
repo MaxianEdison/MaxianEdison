@@ -7,11 +7,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Some things about me :</br>
 - Proficient with C/C++, Assembly.</br>
-- Cybersecurity researcher, malware development and analysis and embedded system developer.</br>
-- I’m currently working on the ME.</br>
+- I am just a simple programmer.</br>
 - How to reach me : Mail me at <a href="mailto:maximilianedison@gmail.com">here</a></br>
 - Ask me anything related to programming : <a href="mailto:maximilianedison@gmail.com">here</a></br>
 - Fun fact : I realy hate schools and university and educational system!</br>
+- Very fun fact : I'm trying to forget you but i'm also waiting for you to come back and i really hope you miss me sometimes:..)</br>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/maxianedison?tab=repositories)
